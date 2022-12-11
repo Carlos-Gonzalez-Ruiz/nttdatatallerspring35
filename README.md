@@ -1,4 +1,4 @@
-# Taller 3 y 5 de Spring.
+# Taller 3 y 5 de Spring
 
 En este taller se mezclan tanto los talleres 3 y 5, ya que el 5 es una extensión del 4 que a su vez es otra extensión del 3.
 
